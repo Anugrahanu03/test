@@ -9,7 +9,7 @@ namespace HelloWorld
         {
             System.Console.WriteLine("Hello World!");
             //double d = 999.11;
-            //int inttt = (int)d;
+            //int inttt = (int)d;kkkk
             //System.Console.WriteLine(inttt);
 
             int[] arr = [1,102, 2, 2, 3, 99];
