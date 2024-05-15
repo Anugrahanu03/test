@@ -10,7 +10,7 @@ namespace HelloWorld
             System.Console.WriteLine("Hello World!");
             //double d = 999.11;
             //int inttt = (int)d;kkkk
-            //System.Console.WriteLine(inttt);
+            //System.Console.WriteLine(inttt);hhh
 
             int[] arr = [1,102, 2, 2, 3, 99];
             var arry = arr.Select(x => x.ToString() + "hii");
